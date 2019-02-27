@@ -1,4 +1,4 @@
-# distributed-file-system
+# Distributed-file-system
 Distributed file system project is a client-server model built using socket programming in Python3.
 
 This project consists of two part: a client and a server.
